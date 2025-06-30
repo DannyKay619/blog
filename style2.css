@@ -1,0 +1,13 @@
+body {
+  margin: 10px;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: rgb(1, 213, 255);
+    color: rgb(255, 255, 255);
+}
+audio {
+    margin: 20px;
+}
+video {
+  background-color: blueviolet;
+    margin: 20px;
+}
